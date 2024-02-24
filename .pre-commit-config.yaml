@@ -1,0 +1,60 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: check-added-large-files
+        args: ["--maxkb=1024"]
+        exclude: |
+          (?x)^(
+            assets/.*
+          )$
+      - id: check-case-conflict
+      - id: check-executables-have-shebangs
+      - id: check-json
+      - id: check-merge-conflict
+      - id: check-shebang-scripts-are-executable
+      - id: check-symlinks
+      - id: check-toml
+      - id: check-xml
+      - id: check-yaml
+      - id: detect-private-key
+      - id: end-of-file-fixer
+      - id: fix-byte-order-marker
+      - id: forbid-new-submodules
+      - id: mixed-line-ending
+      - id: trailing-whitespace
+  - repo: https://github.com/crate-ci/typos
+    rev: v1.18.2
+    hooks:
+      - id: typos
+        verbose: true
+        args: [
+        ]
+        exclude: |
+          (?x)^(
+            .gitignore
+          )$
+  - repo: https://github.com/compilerla/conventional-pre-commit
+    rev: v3.1.0
+    hooks:
+      - id: conventional-pre-commit
+        stages: [commit-msg]
+        args: []
+  - repo: local
+    hooks:
+      - id: kebab-case-files-only
+        name: kebab-case files only
+        entry: filenames must be kebab-case only
+        language: fail
+        files: '(?!\.test\.mdx?$)[^a-z0-9.\/\[\]@-]'
+        exclude: |
+          (?x)^(
+            .github/ISSUE_TEMPLATE/bug_report.md|
+            .github/ISSUE_TEMPLATE/feature_request.md|
+            .github/PULL_REQUEST_TEMPLATE.md|
+            Writerside/(.*)|
+            LICENSE|
+            CODEOWNERS|
+            README.md|
+            Makefile
+          )$
