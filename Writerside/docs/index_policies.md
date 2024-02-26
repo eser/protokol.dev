@@ -29,7 +29,7 @@
 
 1.4. Commit mesajlarını "Conventional Commits 1.0.0" standartına göre yazıyoruz.
 {collapsible="true" default-state="collapsed"}
-: Conventional Commits, commit mesajlarının daha iyi taranabilmesi ve geliştirme maddelerinin birbirinden ayrılabilmesi için yardımcı bir standart sunar. Detaylar: https://www.conventionalcommits.org/tr/v1.0.0/
+: Conventional Commits, commit mesajlarının daha iyi taranabilmesi ve geliştirme maddelerinin birbirinden ayrılabilmesi için yardımcı bir standart sunar. Detaylar: [conventionalcommits.org](https://www.conventionalcommits.org/tr/v1.0.0/)
 
 : Kullandığımız tipler: `build`, `chore`, `ci`, `docs`, `feat`, `fix`, `perf`, `refactor`, `revert`, `style`, `test`.
 
@@ -50,7 +50,7 @@
 
 1.7. Sürüm numaraları için `semantic versioning` kullanıyoruz.
 {collapsible="true" default-state="collapsed"}
-: `semantic versioning` yani anlamsal sürümleme, sürüm numaralarının standartize edilebilmesi ve doğru kategorilendirilmesi için bir dizi yönlendirme sunar. Detaylar: https://semver.org/lang/tr/
+: `semantic versioning` yani anlamsal sürümleme, sürüm numaralarının standartize edilebilmesi ve doğru kategorilendirilmesi için bir dizi yönlendirme sunar. Detaylar: [semver.org](https://semver.org/lang/tr/)
 
 
 1.8. Sürümleri belirlemek için `tag` kullanıyoruz.
