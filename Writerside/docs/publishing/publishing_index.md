@@ -1,3 +1,3 @@
-# Yayına Almak
+# Yayınlamak
 
 Start typing here...

@@ -1,4 +1,4 @@
-# Temel İlkeler
+# Temeller ve İlkeler
 
 ## Sürüm Kontrolü
 
@@ -27,14 +27,31 @@ Elimizdeki *her iş maddesi için* ana branch'e `pull request` açarak geliştir
 : geliştirmeleri tamamlamalı ve `pull request` açarak ilerlemeliyiz.
 
 
-Mümkün oldukça `cherry-pick` işlemlerinden kaçınıyoruz.
+`cherry-pick` işlemlerinden kaçınıyoruz.
 {collapsible="true" default-state="collapsed"}
 : Doğrusal sürüm kontrol sistemlerinden Git ve benzeri dağıtık sürüm kontrol sistemlerine geçiş nedenlerimizden biri de `cherry-pick` gibi operasyonlardan kaçınmak ve bunun için branch yapılarını kullanmaktı.
 
 : `cherry-pick` işlemi bir commit'i mevcut dalın tarihine ekler, sürüm geçmişinde kopukluklar oluşturur ve orijinal commit'in bağlamını veya bağımlılıklarını taşıdığı için sürüm geçmişinin tekrar yazılmasına neden olur. Bu nedenle bu işlemden sonra `fast-forward` dışında seçeneğimiz kalmaz ve ana branch'den kopya almış branch'leri rebase ederek alt branchleri güncel tutma imkanımız kalmaz.
 
+: `Feature Flag`lerinin de desteği ile ana branch'de birleşen kod zaten `cherry-pick` edilmişçesine uygulamanın son sürümünü yansıtmalı ve olası "conflict"lerin çözülmüş bir kopyası olmalı. Eğer halen "birleşmiş sürüm"de sorunlar varsa, bunlar eski sürümleri değiştirerek değil, yeni bir commit ile yamalanmalıdır.
 
-## Deployment
+
+## Sınama ve Yayınlama
+
+`Continuous Integration`, `Continuous Delivery` ve `Continuous Deployment`'ı ayrı süreçler olarak ele alıyoruz.
+{collapsible="true" default-state="collapsed"}
+: `Continuous Integration` iletilen geliştirmenin projenin bütünü ile adaptasyonunu, `Continuous Delivery` sürümlerin paketlenip taşınabilir hale getirilmesini, `Continuous Deployment` ise ilgili sürümlerin ilgili ortamlara yüklenmesini hedeflediği için bu kavramları birbirinden izole halde tutmak iyi bir pratiktir.
+
+
+`GitHub Actions` kullanıyoruz.
+{collapsible="true" default-state="collapsed"}
+: GitHub Actions `Continuous Integration` ve `Continuous Delivery` aşamalarında kullanılan pipeline'ların kod üzerinden tanımlanması, GitHub'ın sağladığı araçlarla takip edilebilmesi, bağımlılıkların güvenlik taramalarından geçirilmesi ve kolayca tekrar kullanılabilmesini sağlamaktadır.
+
+
+`GitOps` kullanıyoruz.
+{collapsible="true" default-state="collapsed"}
+: GitOps bir `Continuous Deployment` çözümü olarak operasyonların da Git üzerinden kontrol edilebilmesi ve böylece mevcut uygulama altyapısının proje codebase'indeki yapı ile "senkron" kalmasını sağlar. GitOps, yükleme yapılan ortamlardaki gerçek durum ile geliştiricinin "planladığı durum"u senkronize etmesi açısından iyi bir pratiktir.
+
 
 ## İletişim ve Kültür
 
