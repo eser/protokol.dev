@@ -18,6 +18,15 @@ Ana branch'imizin ismi `main` olacak şekilde `trunk-based` geliştirme yapıyor
 : `Feature Flag`ler bir özelliğin hızlıca geri çekilebilmesi, kontrollü özellik yayılımları, A/B testleri, sürekli entegrasyon ve sürekli ileri doğru veritabanı "migration" stratejileri için oldukça önem taşırlar.
 
 
+Elimizdeki *her iş maddesi için* ana branch'e `pull request` açarak geliştirmelerimizi tamamlıyoruz.
+{collapsible="true" default-state="collapsed"}
+: `feature-based` yaklaşımda olduğu gibi her feature için bir branch oluşturup geliştirmeleri o branch altında tutmak yerine,
+- Repo'ya yazmaya yetkimiz varsa, için bir branch oluşturup,
+- Repo'ya yazma yetkimiz yoksa, oluşturduğumuz fork üzerinde,
+
+: geliştirmeleri tamamlamalı ve `pull request` açarak ilerlemeliyiz.
+
+
 Mümkün oldukça `cherry-pick` işlemlerinden kaçınıyoruz.
 {collapsible="true" default-state="collapsed"}
 : Doğrusal sürüm kontrol sistemlerinden Git ve benzeri dağıtık sürüm kontrol sistemlerine geçiş nedenlerimizden biri de `cherry-pick` gibi operasyonlardan kaçınmak ve bunun için branch yapılarını kullanmaktı.
