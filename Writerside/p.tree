@@ -5,16 +5,86 @@
 <instance-profile id="p"
                   name="protokol.dev"
                   start-page="index.md">
-  <toc-element toc-title="Giriş" topic="index.md">
-    <toc-element topic="index_policies.md"/>
+  <toc-element toc-title="Giriş" topic="index.md"/>
+  <toc-element topic="practices.md">
+    <toc-element topic="project-and-team-dynamic.md">
+      <toc-element topic="agile-development.md"/>
+      <toc-element topic="career-framework.md"/>
+      <toc-element topic="codeowners.md"/>
+      <toc-element topic="coffee-talks.md"/>
+      <toc-element topic="cross-functional-teams.md"/>
+      <toc-element topic="daily-scrums.md"/>
+      <toc-element topic="definition-of-done.md"/>
+      <toc-element topic="definition-of-ready.md"/>
+      <toc-element topic="empiricism.md"/>
+      <toc-element topic="internal-hackathons.md"/>
+      <toc-element topic="kanban.md"/>
+      <toc-element topic="maturity-matrix.md"/>
+      <toc-element topic="meeting-agenda.md"/>
+      <toc-element topic="mob-programming.md"/>
+      <toc-element topic="peer-reviews.md"/>
+      <toc-element topic="pizza-teams.md"/>
+      <toc-element topic="postmortems.md"/>
+      <toc-element topic="pulse-surveys.md"/>
+      <toc-element topic="radical-candor.md"/>
+      <toc-element topic="retrospective-meetings.md"/>
+      <toc-element topic="shu-ha-ri.md"/>
+      <toc-element topic="technical-onboarding.md"/>
+    </toc-element>
+    <toc-element topic="product-development.md">
+      <toc-element topic="acceptance-criteria.md"/>
+      <toc-element topic="business-values.md"/>
+      <toc-element topic="non-functional-requirements.md"/>
+      <toc-element topic="review-meetings.md"/>
+      <toc-element topic="story-points.md"/>
+      <toc-element topic="user-stories.md"/>
+      <toc-element topic="user-story-mapping.md"/>
+      <toc-element topic="v2mom.md"/>
+    </toc-element>
+    <toc-element topic="software-development-life-cycle.md">
+      <toc-element topic="blue-green-deployments.md"/>
+      <toc-element topic="configuration-management.md"/>
+      <toc-element topic="containerization.md"/>
+      <toc-element topic="continuous-delivery.md"/>
+      <toc-element topic="continuous-deployment.md"/>
+      <toc-element topic="continuous-integration.md"/>
+      <toc-element topic="conventional-commits.md"/>
+      <toc-element topic="devops.md"/>
+      <toc-element topic="gitops.md"/>
+      <toc-element topic="health-checks.md"/>
+      <toc-element topic="infrastructure-as-code.md"/>
+      <toc-element topic="load-testing.md"/>
+      <toc-element topic="progressive-delivery.md"/>
+      <toc-element topic="secret-management.md"/>
+      <toc-element topic="semantic-versioning.md"/>
+      <toc-element topic="service-monitoring.md"/>
+      <toc-element topic="service-tracing.md"/>
+      <toc-element topic="static-code-analysis.md"/>
+      <toc-element topic="trunk-based-development.md"/>
+    </toc-element>
+    <toc-element topic="software-craftsmanship.md">
+      <toc-element topic="architectural-design-records.md"/>
+      <toc-element topic="command-query-separation.md"/>
+      <toc-element topic="determinism.md"/>
+      <toc-element topic="engineering-plans.md"/>
+      <toc-element topic="environment-variables.md"/>
+      <toc-element topic="feature-flags.md"/>
+      <toc-element topic="idempotency-keys.md"/>
+      <toc-element topic="integration-testing.md"/>
+      <toc-element topic="snapshot-testing.md"/>
+      <toc-element topic="unit-testing.md"/>
+    </toc-element>
   </toc-element>
-  <toc-element topic="planning_index.md">
-  </toc-element>
-  <toc-element topic="development_index.md">
-    <toc-element topic="development_setting-the-environment.md"/>
-  </toc-element>
-  <toc-element topic="testing_index.md">
-  </toc-element>
-  <toc-element topic="publishing_index.md">
+  <toc-element topic="synthesis.md"/>
+  <toc-element topic="flows.md">
+    <toc-element topic="planning.md">
+    </toc-element>
+    <toc-element topic="development.md">
+      <toc-element topic="setting-the-environment.md"/>
+    </toc-element>
+    <toc-element topic="testing.md">
+    </toc-element>
+    <toc-element topic="publishing.md">
+    </toc-element>
   </toc-element>
 </instance-profile>

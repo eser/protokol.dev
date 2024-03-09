@@ -1,8 +1,14 @@
 # protokol.dev
 
-İsmim Eser Özvataf. 90'lı yıllarda amatör olarak başladığım yazılım geliştirme öykümü akademik ve profesyonel olarak devam ettirerek yazılım gelistirme pratikleri üzerine bir dizi deneyim elde ettim. Bu deneyimler süresince bir takım yaklaşımların ortak prensiplere dayandırıldığını, birbirleri ile uyumlu olduklarını ve birlikte kullanıldıklarında da yazılım geliştirme süreçlerinin hem mutlu geliştiriciler hem de mutlu kullanıcılar sağladıklarına şahit oldum.
+İsmim Eser Özvataf. [Teknasyon](https://teknasyon.com/)'da Head of Engineering olarak çalışıyorum.
 
-Profesyonel kariyerim boyunca yöneticisi olduğum en az 15 takımın "olgunluk ve verim" arayışında kullandığımız, dönüp sürekli revize ettiğim pratikleri `protokol.dev` ismi ile ürünleştirmek istedim. Bu pratikleri hem açık kaynak geliştirme dünyasında, hem de profesyonel geliştirme ekiplerinde kullanılabilecek şekilde derlemeye çalıştım.
+90'lı yıllarda amatör bir hevesle başlayan yazılım geliştirme yolculuğumu zaman içerisinde akademik ve profesyonel kimliklerle devam ettirerek yazılım gelistirme pratikleri üzerine bir dizi deneyim elde ettim.
+
+Bu süreçte bir takım yaklaşım ve fikirlerin ortak prensiplere dayandırıldığını, birbirleri ile uyumlu olduklarını ve birlikte kullanıldıklarında da yazılım geliştirme süreçlerinin hem mutlu geliştiriciler hem de mutlu kullanıcılar sağladıklarına dair bir içgörüm oluştu.
+
+Kariyerim boyunca doğrudan yöneticisi olduğum en az 20 takıma ek olarak profesyonel danışmanlık verdiğim, DevRel şapkasıyla aktif izlediğim, çeviklikten sorumlu bir birimin yöneticisi olarak organizasyon altında dolaylı olarak çalıştığım yüzlerce takım ve temas ettiğim binlerce profesyonelin ideal/pragmatik çalışma rutini arayışlarına dahil oldum.
+
+Bu bahsi geçen "olgunluk ve verim" hedefli arayışlarda kullandığımız, dönüp sürekli revize ettiğim pratikleri `protokol.dev` ismi ile ürünleştirmek istedim. Bu pratikleri hem açık kaynak geliştirme dünyasında, hem de profesyonel geliştirme ekiplerinde kullanılabilecek şekilde derlemeye çalıştım.
 
 
 ## Geri bildirim ve destek

@@ -3,3 +3,7 @@
 # OS-specific files
 .DS_Store
 Thumbs.db
+
+# outputs
+pdfSource*.html
+pdfSource*.pdf

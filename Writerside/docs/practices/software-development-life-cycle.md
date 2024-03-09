@@ -1,0 +1,1 @@
+# Yazılım geliştirme yaşam döngüsü

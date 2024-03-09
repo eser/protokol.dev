@@ -1,4 +1,4 @@
-# Temeller ve İlkeler
+# Sentez
 
 ## Sürüm Kontrolü
 

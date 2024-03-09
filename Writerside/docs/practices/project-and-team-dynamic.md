@@ -1,0 +1,1 @@
+# Proje ve takım dinamikleri
