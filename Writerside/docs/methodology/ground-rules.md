@@ -1,4 +1,4 @@
-# Sentez
+# Temel Kurallar
 
 ## Sürüm Kontrolü
 

@@ -14,6 +14,7 @@ Takım işbirliği, iletişim ve yönetim pratiği ile ilgili başlıkları içe
 - [Empiricism](empiricism.md)
 - [Internal hackathons](internal-hackathons.md)
 - [Kanban](kanban.md)
+- [Lead time metrics](lead-time-metrics.md)
 - [Maturity matrix](maturity-matrix.md)
 - [Meeting agenda](meeting-agenda.md)
 - [Mob programming](mob-programming.md)
@@ -25,6 +26,7 @@ Takım işbirliği, iletişim ve yönetim pratiği ile ilgili başlıkları içe
 - [Retrospective meetings](retrospective-meetings.md)
 - [Shu-ha-ri](shu-ha-ri.md)
 - [Technical onboarding](technical-onboarding.md)
+- [WIP limits](wip-limits.md)
 
 ## Ürün geliştirme
 Ürün geliştirme sürecinin planlama ve gereksinim analizi aşamalarına odaklanır.
@@ -34,6 +36,7 @@ Takım işbirliği, iletişim ve yönetim pratiği ile ilgili başlıkları içe
 - [Non-functional requirements](non-functional-requirements.md)
 - [Review meetings](review-meetings.md)
 - [Story points](story-points.md)
+- [Usage metrics](usage-metrics.md)
 - [User stories](user-stories.md)
 - [User story mapping](user-story-mapping.md)
 - [V2MOM](v2mom.md)
