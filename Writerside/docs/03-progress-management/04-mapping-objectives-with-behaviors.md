@@ -1,0 +1,1 @@
+# Hedefleri davranışlarla eşleştirmek

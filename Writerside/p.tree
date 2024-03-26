@@ -8,10 +8,16 @@
   <toc-element toc-title="Giriş" topic="01-index.md"/>
   <toc-element topic="02-organizations.md">
     <toc-element topic="01-roles-and-responsibilities.md"/>
-    <toc-element topic="02-expected-output.md"/>
-    <toc-element topic="03-expected-behaviors.md"/>
+    <toc-element topic="02-objectives-and-expected-output.md"/>
   </toc-element>
-  <toc-element topic="03-practices.md">
+  <toc-element topic="03-progress-management.md">
+    <toc-element topic="01-sponsorship-and-determination.md"/>
+    <toc-element topic="02-core-principles.md"/>
+    <toc-element topic="03-choosing-objectives.md"/>
+    <toc-element topic="04-mapping-objectives-with-behaviors.md"/>
+    <toc-element topic="05-tracking-the-behaviors.md"/>
+  </toc-element>
+  <toc-element topic="04-practices.md">
     <toc-element topic="01-project-and-team-dynamic.md">
       <toc-element topic="agile-development.md"/>
       <toc-element topic="career-framework.md"/>
@@ -84,7 +90,7 @@
       <toc-element topic="unit-testing.md"/>
     </toc-element>
   </toc-element>
-  <toc-element topic="04-methodology.md">
+  <toc-element topic="05-methodology.md">
     <toc-element topic="01-ground-rules.md"/>
     <toc-element topic="02-flows.md">
       <toc-element topic="01-planning.md">

@@ -1,0 +1,1 @@
+# Hedefler ve beklenen çıktı
