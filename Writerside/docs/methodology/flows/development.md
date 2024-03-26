@@ -1,3 +1,0 @@
-# Geliştirme
-
-Start typing here...

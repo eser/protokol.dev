@@ -1,3 +1,0 @@
-# Ortam Oluşturma
-
-Start typing here...

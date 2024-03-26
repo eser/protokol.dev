@@ -1,3 +1,0 @@
-# Planlama
-
-Start typing here...

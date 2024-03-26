@@ -1,3 +1,0 @@
-# Sınama
-
-Start typing here...

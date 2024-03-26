@@ -1,3 +1,0 @@
-# Yayınlamak
-
-Start typing here...

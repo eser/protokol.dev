@@ -4,10 +4,15 @@
 
 <instance-profile id="p"
                   name="protokol.dev"
-                  start-page="index.md">
-  <toc-element toc-title="Giriş" topic="index.md"/>
-  <toc-element topic="practices.md">
-    <toc-element topic="project-and-team-dynamic.md">
+                  start-page="01-index.md">
+  <toc-element toc-title="Giriş" topic="01-index.md"/>
+  <toc-element topic="02-organizations.md">
+    <toc-element topic="01-roles-and-responsibilities.md"/>
+    <toc-element topic="02-expected-output.md"/>
+    <toc-element topic="03-expected-behaviors.md"/>
+  </toc-element>
+  <toc-element topic="03-practices.md">
+    <toc-element topic="01-project-and-team-dynamic.md">
       <toc-element topic="agile-development.md"/>
       <toc-element topic="career-framework.md"/>
       <toc-element topic="codeowners.md"/>
@@ -33,7 +38,7 @@
       <toc-element topic="technical-onboarding.md"/>
       <toc-element topic="wip-limits.md"/>
     </toc-element>
-    <toc-element topic="product-development.md">
+    <toc-element topic="02-product-development.md">
       <toc-element topic="acceptance-criteria.md"/>
       <toc-element topic="business-values.md"/>
       <toc-element topic="non-functional-requirements.md"/>
@@ -44,7 +49,7 @@
       <toc-element topic="user-story-mapping.md"/>
       <toc-element topic="v2mom.md"/>
     </toc-element>
-    <toc-element topic="software-development-life-cycle.md">
+    <toc-element topic="03-software-development-life-cycle.md">
       <toc-element topic="blue-green-deployments.md"/>
       <toc-element topic="configuration-management.md"/>
       <toc-element topic="containerization.md"/>
@@ -65,7 +70,8 @@
       <toc-element topic="static-code-analysis.md"/>
       <toc-element topic="trunk-based-development.md"/>
     </toc-element>
-    <toc-element topic="software-craftsmanship.md">
+    <toc-element topic="04-software-craftsmanship.md">
+      <toc-element topic="data-oriented-programming.md"/>
       <toc-element topic="architectural-design-records.md"/>
       <toc-element topic="command-query-separation.md"/>
       <toc-element topic="determinism.md"/>
@@ -78,17 +84,17 @@
       <toc-element topic="unit-testing.md"/>
     </toc-element>
   </toc-element>
-  <toc-element topic="methodology.md">
-    <toc-element topic="ground-rules.md"/>
-    <toc-element topic="flows.md">
-      <toc-element topic="planning.md">
+  <toc-element topic="04-methodology.md">
+    <toc-element topic="01-ground-rules.md"/>
+    <toc-element topic="02-flows.md">
+      <toc-element topic="01-planning.md">
       </toc-element>
-      <toc-element topic="development.md">
-        <toc-element topic="setting-the-environment.md"/>
+      <toc-element topic="02-development.md">
+        <toc-element topic="01-setting-the-environment.md"/>
       </toc-element>
-      <toc-element topic="testing.md">
+      <toc-element topic="03-testing.md">
       </toc-element>
-      <toc-element topic="publishing.md">
+      <toc-element topic="04-publishing.md">
       </toc-element>
     </toc-element>
   </toc-element>

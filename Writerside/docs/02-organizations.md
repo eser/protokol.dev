@@ -1,0 +1,1 @@
+# Yazılım geliştiren organizasyonlar
