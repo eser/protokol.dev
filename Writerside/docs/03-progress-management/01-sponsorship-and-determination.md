@@ -1,1 +1,0 @@
-# Sponsorluk ve kararlılık

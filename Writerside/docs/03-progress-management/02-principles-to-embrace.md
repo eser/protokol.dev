@@ -1,0 +1,1 @@
+# Benimsenmesi gereken ilkeler

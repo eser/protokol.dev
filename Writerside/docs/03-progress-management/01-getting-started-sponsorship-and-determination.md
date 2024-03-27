@@ -1,0 +1,1 @@
+# Başlamak, sponsorluk ve kararlılık

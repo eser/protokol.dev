@@ -11,8 +11,8 @@
     <toc-element topic="02-objectives-and-expected-output.md"/>
   </toc-element>
   <toc-element topic="03-progress-management.md">
-    <toc-element topic="01-sponsorship-and-determination.md"/>
-    <toc-element topic="02-core-principles.md"/>
+    <toc-element topic="01-getting-started-sponsorship-and-determination.md"/>
+    <toc-element topic="02-principles-to-embrace.md"/>
     <toc-element topic="03-choosing-objectives.md"/>
     <toc-element topic="04-mapping-objectives-with-behaviors.md"/>
     <toc-element topic="05-tracking-the-behaviors.md"/>
