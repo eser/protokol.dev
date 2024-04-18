@@ -32,6 +32,7 @@ repos:
         ]
         exclude: |
           (?x)^(
+            samples/.*|
             .gitignore
           )$
   - repo: https://github.com/compilerla/conventional-pre-commit
