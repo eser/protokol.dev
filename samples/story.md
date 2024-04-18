@@ -15,19 +15,27 @@ Kullanıcılar, web uygulamasının "Profil" sayfası üzerinden kayıtlı e-pos
 5. **Hata Mesajları**: Geçersiz girişlerde kullanıcıya açık ve anlaşılır hata mesajları gösterilmelidir.
 6. **UI Güncellemeleri**: E-posta başarıyla güncellendiğinde, kullanıcıya bir başarı mesajı gösterilmelidir ve profil sayfasındaki e-posta adresi otomatik olarak güncellenmelidir.
 
-**Görevler**:
-- [ ] Arka uç API'sinde e-posta güncelleme endpoint'ini geliştir.
-- [ ] Frontend'de e-posta güncelleme formunu oluştur.
-- [ ] E-posta doğrulama işlevselliğini implemente et.
-- [ ] Doğrulama e-postası gönderimi için e-posta servisini entegre et.
-- [ ] UI testleri yaz.
-- [ ] API testleri yaz.
+**Etkilediği Dış Sistemler**:
+(yok)
+
+**Performans Beklentileri**:
+(yok)
 
 **Bağımlılıklar**:
 - E-posta servisi API dokümantasyonunun tamamlanması.
 
-**Referans Ekranlar**:
-- Figma bağlantısı
+**Görevler**:
+- [ ] Backend API'sinde e-posta güncelleme endpoint'ini geliştir.
+- [ ] Frontend'de e-posta güncelleme formunu oluştur.
+- [ ] E-posta doğrulama işlevselliğini implemente et.
+- [ ] Doğrulama e-postası gönderimi için e-posta servisini entegre et.
+- [ ] UI Snapshot testleri yaz.
+- [ ] API davranış testleri yaz.
+
+**Referans Bağlantılar**:
+- [Figma bağlantısı](.)
+- [Veritabanı şeması](.)
+- [Mimari plan](.)
 
 **Story Point**: 34
 
