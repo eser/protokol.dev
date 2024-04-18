@@ -15,27 +15,28 @@ Kullanıcılar, web uygulamasının "Profil" sayfası üzerinden kayıtlı e-pos
 5. **Hata Mesajları**: Geçersiz girişlerde kullanıcıya açık ve anlaşılır hata mesajları gösterilmelidir.
 6. **UI Güncellemeleri**: E-posta başarıyla güncellendiğinde, kullanıcıya bir başarı mesajı gösterilmelidir ve profil sayfasındaki e-posta adresi otomatik olarak güncellenmelidir.
 
-**Etkilediği Dış Sistemler**:
-(yok)
+**Dış Sistem Etkileri**:
+- E-posta gönderimi için marketing ekibinin kullandığı kuyruk sistemi kullanılır.
 
 **Performans Beklentileri**:
-(yok)
+- Doğrulama bağlantısının ilgili e-posta adresine ulaşacağına dair bildirim 2 saniye içerisinde önyüze yansımalıdır.
 
 **Bağımlılıklar**:
-- E-posta servisi API dokümantasyonunun tamamlanması.
+- E-posta atımında kullanılacak kuyrukla ilgili konfigurasyonun DevOps tarafından sağlanması.
 
 **Görevler**:
-- [ ] Backend API'sinde e-posta güncelleme endpoint'ini geliştir.
+- [ ] Backend API'ında e-posta güncelleme endpoint'ini geliştir.
 - [ ] Frontend'de e-posta güncelleme formunu oluştur.
 - [ ] E-posta doğrulama işlevselliğini implemente et.
-- [ ] Doğrulama e-postası gönderimi için e-posta servisini entegre et.
+- [ ] Doğrulama e-postası gönderimi için e-posta yapısını entegre et.
 - [ ] UI Snapshot testleri yaz.
 - [ ] API davranış testleri yaz.
 
 **Referans Bağlantılar**:
 - [Figma bağlantısı](.)
-- [Veritabanı şeması](.)
-- [Mimari plan](.)
+- [Akış diagramı](.)
+- [Etkilenen veri yapısı](.)
+- [Hatalarla ilgili use-caseler](.)
 
 **Story Point**: 34
 
