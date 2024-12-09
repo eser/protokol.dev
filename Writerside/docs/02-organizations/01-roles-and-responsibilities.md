@@ -1,1 +1,5 @@
 # Rol ve sorumluluklar
+
+Yazılım geliştiren organizasyonlarda, rol ve sorumlulukların doğru bir şekilde tanımlanması ve benimsenmesi, ekiplerin ortak bir hedef doğrultusunda uyumlu bir şekilde çalışmasını sağlar. Bu, bireylerin büyük resimde kendilerine düşen rolü anlamalarına ve bu doğrultuda verimli bir şekilde katkıda bulunmalarına olanak tanır. Tıpkı futbol, basketbol veya voleybol gibi takım oyunlarında herkesin kendi pozisyonunun yanı sıra diğer pozisyonların da işleyişine hakim olması gerektiği gibi, bir yazılım organizasyonunda da herkesin birbirinin rolü hakkında temel bir anlayışa sahip olması önemlidir.
+
+Bu uyumu sağlamak için, yetkiler kişilere değil, roller ve konumlara atanmalıdır. Roller üzerinden tanımlanan sorumluluklar, kişisel inisiyatif veya bireysel yeteneklere bağımlılığı azaltır, böylece organizasyon daha sürdürülebilir bir yapıya kavuşur. Herkesin ne yaptığını ve neden yaptığını bildiği bir organizasyon yapısı, iletişim hatalarını en aza indirerek daha verimli ve etkili bir işleyiş sunar. Bu yaklaşım, ekiplerin hem bireysel hem de kolektif olarak daha güçlü performans göstermesini sağlar.
