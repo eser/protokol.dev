@@ -57,7 +57,7 @@
 
 ## Ekiplerin Otonomluğu
 
-**Motivasyon:** Ekipler uçtan uca iş ve süreçleri sahiplenmeleri, zamanla kendi çalışma dinamiklerini geliştirmeleri. 
+**Motivasyon:** Ekipler uçtan uca iş ve süreçleri sahiplenmeleri, zamanla kendi çalışma dinamiklerini geliştirmeleri.
 
 **Pratik:**
 - İhtiyaç ve beklentileri net bir şekilde ortaya koyup çözüm yolunu ekibin insiyatifine bırakmak (mikro-yönetimden kaçınmak).
