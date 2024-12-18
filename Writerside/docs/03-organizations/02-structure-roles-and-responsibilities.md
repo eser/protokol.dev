@@ -29,7 +29,7 @@ Gündelik akışlarda süreçlerin sahiplerinin, sorumlularının ve paydaşlar�
 ## Eylem planı
 
 - Organizasyon yapısında C-level'lara stratejik, direktörlere taktik, ve hat yöneticilerine operasyonel görevler verildiğinden emin olun.
-- Sorumlulukları kişilere değil, rollere atayın; RACI çizelgesi gibi pratikleri kullanarak bu süreci destekleyin. 
+- Sorumlulukları kişilere değil, rollere atayın; RACI çizelgesi gibi pratikleri kullanarak bu süreci destekleyin.
 - Roller ve sorumlulukların organizasyon içinde net bir şekilde tanımlandığını doğrulayın.
 - Organizasyondaki herkesin kendi rolünün yanı sıra diğer rollerin işleyişine dair temel bir anlayış geliştirmesini teşvik edin.
 - Organizasyon yapısında şeffaflık sağlayarak iletişim hatalarını minimize edin.

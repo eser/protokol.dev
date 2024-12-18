@@ -4,7 +4,7 @@
 
 90'lı yıllarda amatör bir hevesle başlayan yazılım geliştirme yolculuğum zamanla akademik ve profesyonel kimlikler kazanarak sürdü, bu sayede yazılım dünyasında geniş bir deneyim elde ettim.
 
-Kariyerimin geldiği noktada doğrudan yöneticisi olduğum en az 20 takıma ek olarak profesyonel danışmanlık verdiğim, DevRel şapkasıyla aktif izlediğim, çeviklikten sorumlu bir birimin yöneticisi olarak organizasyon altında dolaylı olarak çalıştığım yüzlerce takım oldu. Bu süreçte temas ettiğim profesyonellerin beklenen iş ve davranış çıktılarını vermesi "iş tanımım"ı oluşturdu.
+[Kariyerim](https://github.com/eser/eser/blob/main/curriculum-vitae/en/README.md)in geldiği noktada doğrudan yöneticisi olduğum en az 20 takıma ek olarak profesyonel danışmanlık verdiğim, DevRel şapkasıyla aktif izlediğim, çeviklikten sorumlu bir birimin yöneticisi olarak organizasyon altında dolaylı olarak çalıştığım yüzlerce takım oldu. Bu süreçte temas ettiğim profesyonellerin beklenen iş ve davranış çıktılarını vermesi "iş tanımım"ı oluşturdu.
 
 Önümdeki tek başıma ilerleyebildiğim bir yol olmadığından, bu süreçte üst yönetimlerden orta seviye yöneticilere, proje ve ürün yöneticilerinden geliştiricilere birçok kişiyle birlikte çalışarak onların bakış açılarını ve ihtiyaçlarını yakından dinleme fırsatı buldum. Onların ideal/pragmatik çalışma rutini arayışlarına eşlik ettim.
 
@@ -14,17 +14,18 @@ Bu farkındalık beni en hakim olduğum alandaki bilgi birikimimi kullanabilece�
 
 - Yukarıdaki kavramlar özelinde bireysel eksikleriniz varsa,
 - Bir yazılım yönetim çatısına ihtiyaç duyuyorsanız,
+- Agile ve proje pratiklerinden hangisinin size uygun olduğundan emin değilseniz,
+- Yazılım üreten bir organizasyonda verimlilik peşindeyseniz,
+- Yazılım üreten bir organizasyonda çıktınızı ve verimliliğinizi ölçemiyorsanız,
 - Organizasyonel bir değişiklik planlıyorsanız,
 - Organizasyonel bir değişikliğe ihtiyacınız olup olmadığına karar veremiyorsanız,
 - Bir dönüşüm projesine nereden başlayacağınızı bilmiyorsanız,
-- Çıktı ve veriminizi ölçemiyorsanız,
-- Agile ve proje pratiklerinden hangisinin size uygun olduğundan emin değilseniz,
 - Mühendislik yönetimi konusunda darboğazlar yaşıyorsanız,
 - Temel mühendislik pratikleri ve çatıları konusunda bir referans arıyorsanız,
 
-Kısacası buradaki yönlendirmelerle bir yazılım ekibi yönetim çatısı da oluşturmaya çalışacağım. Dolayısıyla bu kaynağı ihtiyacınız olduğunda belirli kavramları tekrar anımsamak için bir referans olarak, ihtiyacıniz olduğunda da kapsamlı bir dönüşüm kılavuzu olarak kullanabilirsiniz.
+...bu kaynaktan yararlanabilirsiniz.
 
-Okumaya [Kullanım amacı ve temeller](02-usage-and-basics.md) ile başlayabilirsiniz.
+Okumaya [Kullanım ve temeller](02-how-to-use-and-basics.md) ile başlamanızı tavsiye ederim.
 
 
 ## Geri bildirim ve destek

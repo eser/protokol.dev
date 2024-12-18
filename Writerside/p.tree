@@ -6,7 +6,7 @@
                   name="protokol.dev"
                   start-page="01-index.md">
   <toc-element toc-title="Giriş" topic="01-index.md"/>
-  <toc-element topic="02-usage-and-basics.md" />
+  <toc-element topic="02-how-to-use-and-basics.md" />
   <toc-element topic="03-organizations.md">
     <toc-element topic="01-objectives-and-expected-output.md"/>
     <toc-element topic="02-structure-roles-and-responsibilities.md"/>
